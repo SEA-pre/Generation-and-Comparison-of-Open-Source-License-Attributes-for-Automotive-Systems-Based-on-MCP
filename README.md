@@ -17,3 +17,7 @@ uvicorn mcp_service:app --host 0.0.0.0 --port 8000
   ]
 }
 
+License
+Papers (papers/): Licensed under CC BY 4.0.
+Data (data/): Licensed under CC0 1.0.
+Code (code/): Licensed under MIT License
