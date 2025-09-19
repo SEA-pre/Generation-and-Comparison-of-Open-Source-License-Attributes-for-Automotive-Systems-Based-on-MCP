@@ -1,0 +1,1063 @@
+{
+  "licenses": [
+    {
+      "name": "BSD Zero Clause License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "No",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Academic Free License v3.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "GNU Affero General Public License v3.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "Yes",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Apache License 2.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Artistic License 2.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Blue Oak Model License 1.0.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "BSD-2-Clause Plus Patent License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "BSD 2-Clause \"Simplified\" License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "BSD 3-Clause Clear License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "BSD 4-Clause \"Original\" or \"Old\" License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Boost Software License 1.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Creative Commons Attribution 4.0 International",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "No",
+        "Trademark use": "Yes",
+        "Warranty": "No"
+      }
+    },
+    {
+      "name": "Creative Commons Attribution Share Alike 4.0 International",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "No",
+        "Trademark use": "Yes",
+        "Warranty": "No"
+      }
+    },
+    {
+      "name": "Creative Commons Zero v1.0 Universal",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "No",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "No",
+        "Trademark use": "Yes",
+        "Warranty": "No"
+      }
+    },
+    {
+      "name": "CeCILL Free Software License Agreement v2.1",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Educational Community License v2.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Eclipse Public License 1.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Eclipse Public License 2.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "European Union Public License 1.1",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "European Union Public License 1.2",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "GNU Free Documentation License v1.3",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "No",
+        "Trademark use": "Yes",
+        "Warranty": "No"
+      }
+    },
+    {
+      "name": "GNU General Public License v2.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "GNU General Public License v3.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "ISC License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "GNU Lesser General Public License v2.1",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "GNU Lesser General Public License v3.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "LaTeX Project Public License v1.3c",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "MIT No Attribution",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "No",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "MIT License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Mozilla Public License 2.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Microsoft Public License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Microsoft Reciprocal License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Mulan Permissive Software License, Version 2",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "University of Illinois/NCSA Open Source License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Open Data Commons Open Database License v1.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "Yes"
+      },
+      "limitations": {
+        "Liability": "No",
+        "Trademark use": "Yes",
+        "Warranty": "No"
+      }
+    },
+    {
+      "name": "SIL Open Font License 1.1",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Open Software License 3.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "Yes",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "Yes",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "PostgreSQL License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "The Unlicense",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "No",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Universal Permissive License v1.0",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "Yes",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Vim License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "Do What The F*ck You Want To Public License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    },
+    {
+      "name": "zlib License",
+      "permissions": {
+        "Commercial use": "Yes",
+        "Distribution": "Yes",
+        "Modification": "Yes",
+        "Patent use": "No",
+        "Private use": "Yes"
+      },
+      "conditions": {
+        "Disclose source": "No",
+        "License and copyright notice": "Yes",
+        "Network use is distribution": "No",
+        "Same license": "No",
+        "State changes": "No"
+      },
+      "limitations": {
+        "Liability": "Yes",
+        "Trademark use": "Yes",
+        "Warranty": "Yes"
+      }
+    }
+  ],
+  "Legend": {
+    "Permissions": {
+      "Commercial use": "The licensed material and derivatives may be used for commercial purposes.",
+      "Distribution": "The licensed material may be distributed.",
+      "Modification": "The licensed material may be modified.",
+      "Patent use": "This license provides an express grant of patent rights from contributors.",
+      "Private use": "The licensed material may be used and modified in private."
+    },
+    "Conditions": {
+      "Disclose source": "Source code must be made available when the licensed material is distributed.",
+      "License and copyright notice": "A copy of the license and copyright notice must be included with the licensed material.",
+      "License and copyright notice for source": "A copy of the license and copyright notice must be included with the licensed material in source form, but is not required for binaries.",
+      "Network use is distribution": "Users who interact with the licensed material via network are given the right to receive a copy of the source code.",
+      "Same license": "Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.",
+      "Same license (file)": "Modifications of existing files must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.",
+      "Same license (library)": "Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used, or this condition may not apply to works that use the licensed material as a library.",
+      "State changes": "Changes made to the licensed material must be documented."
+    },
+    "Limitations": {
+      "Liability": "This license includes a limitation of liability.",
+      "Patent use": "This license explicitly states that it does NOT grant any rights in the patents of contributors.",
+      "Trademark use": "This license explicitly states that it does NOT grant trademark rights, even though licenses without such a statement probably do not grant any implicit trademark rights.",
+      "Warranty": "This license explicitly states that it does NOT provide any warranty."
+    }
+  }
+}
