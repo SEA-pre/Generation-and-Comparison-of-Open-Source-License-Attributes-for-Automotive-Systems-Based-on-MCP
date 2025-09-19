@@ -1,10 +1,14 @@
 # Generation-and-Comparison-of-Open-Source-License-Attributes-for-Automotive-Systems-Based-on-MCP
 base on LLM（deepseek、hunyuan, better to chatgpt\grok\claude）、tldrlegal、choosealicense and SCA
+实验数据来源
+choosealicense：https://choosealicense.com/appendix/
+tldrlegal:https://www.tldrlegal.com/browse
+google:https://sites.google.com/view/lidetector
 
 启动服务：
 pip install fastapi uvicorn requests pydantic
 python3 mcp_service.py
-# 或使用 uvicorn 直接
+#或使用 uvicorn 
 uvicorn mcp_service:app --host 0.0.0.0 --port 8000
 
 请求json示例：
