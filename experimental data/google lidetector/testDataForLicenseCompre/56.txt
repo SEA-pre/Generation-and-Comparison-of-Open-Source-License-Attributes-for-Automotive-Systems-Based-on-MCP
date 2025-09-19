@@ -1,0 +1,33 @@
+"This License" refers to MiiTY Version 1.0 
+
+"The Program" refers to any copyrightable work licensed under this 
+License. Each licensee is addressed as "you". "Licensees" and 
+"recipients" may be individuals or organizations. 
+This licensing period begins when the license text included with the program is dated. 
+
+The licensing period for No modification or distribution is 90 (ninety) days. This means that you are 
+ permitted to modify the source code or distribute it to others WITHOUT the permission of the program's creator.
+
+At the end of this licensing period, Section two becomes effective. 
+At the end of Section one's licensing period, you are hereby granted 
+permission to "do whatever you want" with the code. This includes, but 
+is not limited to, modification, distributing verbatim copes of the 
+source code, distributing modified copies of the source code. While 
+doing this, you 
+ adhere to the conditions of Section three. 
+ 
+The only further conditions of this license is that all modified or verbatim copies of the Program's source code 
+ be licensed under a MiiTY-friendly license (which are available at 
+) and that when licensed under MiiTY, the following is in the "license.txt":
+
+
+"This program is licensed under MiiTY Version 1.0. You're free to do what you want with the source of this program 
+ 90 (ninety) days have passed from [insert licensing date]. Please see 
+ for the full license text"
+I'm not a lawyer, nor have I ever been taught law. This license 
+probably (definitely) has major flaws and loopholes. Please use your 
+common sense when licensing programs under this license.
+I consider it ethical to edit the licensing date on each major 
+version release. For example, when the first version of your program is 
+released, the licensing date could be 20/11/13. When the next version is
+ released, you could update the licensing date to 29/11/13.

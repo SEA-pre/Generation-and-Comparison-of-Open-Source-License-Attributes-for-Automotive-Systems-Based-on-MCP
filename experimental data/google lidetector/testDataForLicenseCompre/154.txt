@@ -1,0 +1,16 @@
+This license preserves the author rights and by default don't allow commercial distribution of the original or modified  without authorization of the author.
+The author is only liable in things a license can't go over law like racism, instigating violence, and etc... so don't try to use this to write what your county's law don't allow.
+You shall make clear that you are distributing a modified work when doing so as described in the licensee's rights and obligations clause in the license full text.
+If distributing a modified version you must make clear what you changed via a changelog inside the object. 
+If the author feels the need to do so he may activate the flag clause 3 that void every licensee rights and obligations except for the 1.1 and 1.6.
+Flag clause 4 voids the trademark usage clause.
+Version 1.10.0
+Copyright (C) {year} {Copyright holder(s)}.
+Trademark (tm) {year} {trademark holders} (use only if you
+have a trademark if you don't remove this line)
+The original creator(s) of the data or text under this
+license is thereby called the licensor.
+The person physical or juridical obtaining a copy of the
+data or text under this license is thereby called the licensee.
+The data or text under this license is therefore called the
+object.

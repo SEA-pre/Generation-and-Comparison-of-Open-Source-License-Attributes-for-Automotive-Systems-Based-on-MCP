@@ -1,0 +1,2 @@
+gridSlider for sliding tiles each and every one
+Licensed Under MIT
