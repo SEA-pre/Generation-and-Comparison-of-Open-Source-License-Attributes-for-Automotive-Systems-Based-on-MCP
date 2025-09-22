@@ -1,0 +1,3931 @@
+{
+    "licenses": [
+      {
+        "name": "Apache License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "MIT License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Microsoft Public License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "GNU General Public License v2.0 only",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU General Public License v3.0 only",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original",
+          "Include Install Instructions"
+        ]
+      },
+      {
+        "name": "Mozilla Public License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source",
+          "Include Original",
+          "Same License File"
+        ]
+      },
+      {
+        "name": "GNU Library General Public License v2 only",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Include Original",
+          "Same License Library"
+        ]
+      },
+      {
+        "name": "BSD 2-Clause FreeBSD License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "BSD 3-Clause 'New' or 'Revised' License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "zlib License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Rename"
+        ]
+      },
+      {
+        "name": "Common Development and Distribution License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Use Patent Claims",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.2 or later - no invariants",
+        "can": [
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.3 only - invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [],
+        "must": []
+      },
+      {
+        "name": "psfrag License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution 3.0 Unported",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution No Derivatives 3.0 Unported",
+        "can": [
+          "Commercial Use",
+          "Distribute"
+        ],
+        "cannot": [
+          "Modify",
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Non Commercial 3.0 Unported",
+        "can": [
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Commercial Use",
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported",
+        "can": [
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Commercial Use",
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported",
+        "can": [
+          "Distribute"
+        ],
+        "cannot": [
+          "Commercial Use",
+          "Modify",
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Academic Free License v3.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "Artistic License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Include Original",
+          "Rename",
+          "Include Install Instructions"
+        ]
+      },
+      {
+        "name": "PHP License v3.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Simple Public License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Hold Liable"
+        ],
+        "cannot": [
+          "Sublicense"
+        ],
+        "must": [
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "Eclipse Public License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source",
+          "Include Original",
+          "Include Install Instructions",
+          "Compensate for Damages"
+        ]
+      },
+      {
+        "name": "IPA Font License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "IBM Public License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Apple Public Source License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "University of Illinois/NCSA Open Source License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Do What The F*ck You Want To Public License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Include Copyright",
+          "Include License",
+          "Include Original"
+        ],
+        "cannot": [],
+        "must": [
+          "Rename"
+        ]
+      },
+      {
+        "name": "Boost Software License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "ISC License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Beerware License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty",
+          "Include License",
+          "Rename",
+          "Statically Link"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Microsoft Reciprocal License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source",
+          "Same License File"
+        ]
+      },
+      {
+        "name": "Python License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "GNU Affero General Public License v3.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Install Instructions",
+          "Disclose Network Use"
+        ]
+      }
+      {
+        "name": "SIL Open Font License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Rename"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.3 only - invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice",
+          "Include Original",
+          "Give Credit",
+          "Contact Author",
+          "Relicense"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.3 or later - invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Contact Author",
+          "Relicense"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice",
+          "Include Original",
+          "Give Credit",
+          "Disclose Network Use"
+        ]
+      },
+      {
+        "name": "Code Project Open License 1.02",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable",
+          "Include Original",
+          "Relicense"
+        ],
+        "must": [
+          "State Changes"
+        ]
+      },
+      {
+        "name": "ODC Open Database License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "HTML Tidy License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Notice",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "X11 License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "JSON License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Common Public Attribution License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Use Patent Claims",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Clarified Artistic License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Frameworx Open License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Freetype Project License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Good Luck With That Public License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Private Use",
+          "Hold Liable"
+        ],
+        "must": []
+      },
+      {
+        "name": "Noweb License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Rename"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "Disclose Source",
+          "Contact Author"
+        ]
+      },
+      {
+        "name": "Qhull License",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Rdisc License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": []
+      },
+      {
+        "name": "European Union Public License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Disclose Network Use"
+        ]
+      },
+      {
+        "name": "The Unlicense",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Include Copyright"
+        ],
+        "must": []
+      },
+      {
+        "name": "Fair License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Rename"
+        ],
+        "cannot": [
+          "Place Warranty"
+        ],
+        "must": [
+          "Include License"
+        ]
+      },
+      {
+        "name": "Educational Community License v2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "Open Software License 3.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Disclose Network Use"
+        ]
+      },
+      {
+        "name": "Adaptive Public License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "ANTLR Software Rights Notice",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [],
+        "must": [
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Attribution Assurance License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Common Public License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Condor Public License v1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Eiffel Forum License v2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Relicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Entessa Public License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "EU DataGrid Software License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "Historical Permission Notice and Disclaimer",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "IBM PowerPC Initialization and Boot Software",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Imlib2 License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Independent JPEG Group License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Intel Open Source License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License"
+        ]
+      },
+      {
+        "name": "Lucent Public License v1.02",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "MirOS License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License"
+        ]
+      },
+      {
+        "name": "Multics License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License"
+        ]
+      },
+      {
+        "name": "NASA Open Source Agreement 1.3",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Naumen Public License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "Net Boolean Public License v1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Nethack General Public License",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Non-Profit Open Software License 3.0",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "NTP License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License"
+        ]
+      },
+      {
+        "name": "OCLC Research Public License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Open Data Commons Public Domain Dedication & License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable",
+          "Use Trademark",
+          "Relicense"
+        ],
+        "must": []
+      },
+      {
+        "name": "Open Group Test Suite License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "Open LDAP Public License v2.8",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      }
+      {
+        "name": "OpenSSL License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "PostgreSQL License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Q Public License 1.0",
+        "can": [
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Commercial Use",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Red Hat eCos Public License v1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Ricoh Source Code Public License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Ruby License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Sax Public Domain Notice",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": []
+      },
+      {
+        "name": "SGI Free Software License B v2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Standard ML of New Jersey License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "SugarCRM Public License v1.1.3",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Mozilla Public License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Use Patent Claims",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Sun Industry Standards Source License v1.2",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Vovida Software License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "W3C Software Notice and License (2002-12-31)",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "wxWindows Library License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Statically Link"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "X.Net License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "XFree86 License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "Yahoo! Public License v1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Zimbra Public License v1.3",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Zope Public License 2.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "BitTorrent Open Source License v1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Computer Associates Trusted Open Source License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "CUA Office Public License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Erlang Public License v1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "gSOAP Public License v1.3b",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "LaTeX Project Public License v1.3c",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Netizen Open Source License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Netscape Public License v1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Nokia Open Source License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Sun Public License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Sybase Open Watcom Public License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Open Public License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "RealNetworks Public Source License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Reciprocal Public License 1.5",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Rename",
+          "Give Credit"
+        ]
+      }
+      {
+        "name": "Creative Commons Zero v1.0 Universal",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Use Patent Claims",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": []
+      },
+      {
+        "name": "Creative Commons Attribution 4.0 International",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Rename"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Use Patent Claims",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Rename"
+        ],
+        "cannot": [
+          "Commercial Use",
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "bzip2 and libbzip2 License v1.0.6",
+        "can": [
+          "Commercial Use",
+          "Modify"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Non Commercial 4.0 International",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Rename"
+        ],
+        "cannot": [
+          "Commercial Use",
+          "Sublicense"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Share Alike 4.0 International",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Rename"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Use Patent Claims",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution No Derivatives 4.0 International",
+        "can": [
+          "Commercial Use",
+          "Distribute"
+        ],
+        "cannot": [
+          "Modify",
+          "Rename"
+        ],
+        "must": [
+          "Include Copyright",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "GNU Lesser General Public License v2.1 only",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original",
+          "Include Install Instructions",
+          "Same License Library"
+        ]
+      },
+      {
+        "name": "Apache License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "Apache License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "CeCILL Free Software License Agreement v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Hold Liable"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "CeCILL Free Software License Agreement v1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Hold Liable"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "CeCILL Free Software License Agreement v2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Hold Liable"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Apple MIT License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Xerox License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Zope Public License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "Zope Public License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "Mozilla Public License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Open Software License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Open Software License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Open Software License 2.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Open Software License 2.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "TCL/TK License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Place Warranty",
+          "Relicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "BSD 4-Clause 'Original' or 'Old' License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Universal Permissive License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Use Patent Claims"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Sleepycat License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include License",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.2 only - no invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "3dfx Glide License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Abstyles License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Academy of Motion Picture Arts and Sciences BSD",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Adobe Glyph List License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "Adobe Postscript AFM License",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "Adobe Systems Incorporated Source Code License Agreement",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark",
+          "Compensate for Damages"
+        ],
+        "must": []
+      },
+      {
+        "name": "Afmparse License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Compensate for Damages"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "Amazon Digital Services License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "ANTLR Software Rights Notice",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [],
+        "must": []
+      },
+      {
+        "name": "Barr License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [],
+        "must": [
+          "Rename"
+        ]
+      },
+      {
+        "name": "Borceux license",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Include Copyright",
+          "Include Original",
+          "Contact Author"
+        ],
+        "cannot": [],
+        "must": []
+      }
+      {
+        "name": "CMU License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Cube License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Relicense",
+          "Compensate for Damages"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "curl License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "diffmark license",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Include Copyright",
+          "Include License",
+          "Include Original"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": []
+      },
+      {
+        "name": "DOC License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Contact Author"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "DSDP License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Eurosym License",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Disclose Source",
+          "Rename"
+        ]
+      },
+      {
+        "name": "Giftware License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Include Copyright",
+          "Include License",
+          "Include Original"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": []
+      },
+      {
+        "name": "Glulxe License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Place Warranty"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Haskell Language Report License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "No Limit Public License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Include Copyright",
+          "Include License",
+          "Include Original"
+        ],
+        "cannot": [],
+        "must": []
+      },
+      {
+        "name": "psutils License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Notice",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "BSD Zero Clause License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use",
+          "Include Copyright",
+          "Include License",
+          "Include Original"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": []
+      },
+      {
+        "name": "The MirOS Licence",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License"
+        ]
+      },
+      {
+        "name": "MIT Open Group variant",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "XSkat License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Rename"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "State Changes"
+        ]
+      },
+      {
+        "name": "Zed License",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [],
+        "must": [
+          "Rename"
+        ]
+      },
+      {
+        "name": "Sendmail License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include License",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "TORQUE v2.5+ Software License v1.1",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Commercial Use",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "NIST Public Domain Notice",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": []
+      },
+      {
+        "name": "NIST Public Domain Notice with license fallback",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "ANTLR Software Rights Notice with license fallback",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "BSD 2-Clause with views sentence",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "Business Source License 1.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution 3.0 Austria",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Use Patent Claims"
+        ],
+        "must": []
+      },
+      {
+        "name": "eCos license version 2.0",
+        "can": [
+          "Commercial Use",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU General Public License v1.0 or later",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU General Public License v2.0 or later",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU General Public License v2.0 w/Autoconf exception",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU General Public License v2.0 w/Bison exception",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU General Public License v2.0 w/Classpath exception",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Place Warranty",
+          "Statically Link"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "GNU General Public License v2.0 w/Font exception",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU General Public License v2.0 w/GCC Runtime Library exception",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU General Public License v3.0 or later",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Use Patent Claims",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original",
+          "Include Install Instructions"
+        ]
+      },
+      {
+        "name": "GNU General Public License v3.0 w/Autoconf exception",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Use Patent Claims",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original",
+          "Include Install Instructions"
+        ]
+      },
+      {
+        "name": "GNU General Public License v3.0 w/GCC Runtime Library exception",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Use Patent Claims",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original",
+          "Include Install Instructions"
+        ]
+      },
+      {
+        "name": "GNU Library General Public License v2 or later",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "GNU Lesser General Public License v2.1 or later",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Use Patent Claims",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original",
+          "Include Install Instructions"
+        ]
+      },
+      {
+        "name": "GNU Lesser General Public License v3.0 or later",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Include Original"
+        ]
+      }
+      {
+        "name": "Artistic License 1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "ICU License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "NetCDF license",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Hold Liable",
+          "Give Credit"
+        ],
+        "cannot": [
+          "Use Trademark",
+          "Contact Author"
+        ],
+        "must": [
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "Artistic License 1.0 (Perl)",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "State Changes",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "GNU Lesser General Public License v3.0 only",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "TMate Open Source License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Contact Author"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Notice",
+          "Disclose Source",
+          "Include Install Instructions"
+        ]
+      },
+      {
+        "name": "XPP License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "Include Notice",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Plexus Classworlds License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "Aladdin Free Public License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source",
+          "Include Install Instructions"
+        ]
+      },
+      {
+        "name": "Unicode Terms of Use",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Notice",
+          "Compensate for Damages"
+        ]
+      },
+      {
+        "name": "BSD 2-Clause NetBSD License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Notice",
+          "Compensate for Damages"
+        ]
+      },
+      {
+        "name": "BSD 3-Clause Clear License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Use Patent Claims",
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright"
+        ]
+      },
+      {
+        "name": "Affero General Public License v1.0",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Place Warranty"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Use Patent Claims",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Disclose Source",
+          "Include Original",
+          "Disclose Network Use"
+        ]
+      },
+      {
+        "name": "CeCILL Free Software License Agreement v2.1",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Hold Liable"
+        ],
+        "cannot": [],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "State Changes",
+          "Include Notice",
+          "Disclose Source"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution 3.0 Austria",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Use Patent Claims",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution 3.0 United States",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Use Patent Claims",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO",
+        "can": [
+          "Modify",
+          "Distribute",
+          "Sublicense",
+          "Private Use"
+        ],
+        "cannot": [
+          "Commercial Use",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution Share Alike 2.0 England and Wales",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice",
+          "Give Credit"
+        ]
+      },
+      {
+        "name": "Creative Commons Attribution-Share Alike 3.0 Austria",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute"
+        ],
+        "cannot": [
+          "Sublicense",
+          "Place Warranty",
+          "Hold Liable",
+          "Use Trademark"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include Original"
+        ]
+      },
+      {
+        "name": "EPICS Open License",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.1 only - invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Contact Author"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.1 or later - invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use",
+          "Contact Author"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License",
+          "Include Notice"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.1 only - no invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.1 or later - no invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.2 only - invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      },
+      {
+        "name": "GNU Free Documentation License v1.2 or later - invariants",
+        "can": [
+          "Commercial Use",
+          "Modify",
+          "Distribute",
+          "Private Use"
+        ],
+        "cannot": [
+          "Place Warranty",
+          "Hold Liable"
+        ],
+        "must": [
+          "Include Copyright",
+          "Include License"
+        ]
+      }
+    ]
+  }
